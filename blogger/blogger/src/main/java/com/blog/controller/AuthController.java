@@ -80,5 +80,7 @@ public class AuthController {
 
         return new ResponseEntity<>("User Resgistered Sucessfully", HttpStatus.OK);
     }
+ public void test(){
 
+ }
 }
